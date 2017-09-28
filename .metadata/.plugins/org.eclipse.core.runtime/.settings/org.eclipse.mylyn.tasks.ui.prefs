@@ -1,4 +1,8 @@
 eclipse.preferences.version=1
+<<<<<<< HEAD
+=======
+migrated.task.repositories.secure.store=true
+>>>>>>> 5fab1f628519b11a740691e76504a814c7cd4803
 org.eclipse.mylyn.tasks.ui.filters.nonmatching=true
 org.eclipse.mylyn.tasks.ui.filters.nonmatching.encouraged=true
 org.eclipse.mylyn.tasks.ui.welcome.message=true

@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 package relogo
 
 import static repast.simphony.relogo.Utility.*;
@@ -14,3 +15,21 @@ import repast.simphony.relogo.schedule.Setup;;
 class TestTurtle extends ReLogoTurtle {
 
 }
+=======
+package relogo
+
+import static repast.simphony.relogo.Utility.*;
+import static repast.simphony.relogo.UtilityG.*;
+
+import ReLogoTurtle
+import repast.simphony.relogo.Plural;
+import repast.simphony.relogo.Stop;
+import repast.simphony.relogo.Utility;
+import repast.simphony.relogo.UtilityG;
+import repast.simphony.relogo.schedule.Go;
+import repast.simphony.relogo.schedule.Setup;;
+
+class TestTurtle extends ReLogoTurtle {
+
+}
+>>>>>>> 5fab1f628519b11a740691e76504a814c7cd4803

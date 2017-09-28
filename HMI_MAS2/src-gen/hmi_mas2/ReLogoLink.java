@@ -1,4 +1,5 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 package hmi_mas2;
 
 import static repast.simphony.relogo.Utility.*;
@@ -16,6 +17,8 @@ import repast.simphony.relogo.builder.ReLogoBuilderGeneratedFor;
 public class ReLogoLink<T> extends BaseLink<T>	{
 
 =======
+=======
+>>>>>>> 5fab1f628519b11a740691e76504a814c7cd4803
 package hmi_mas2;
 
 import static repast.simphony.relogo.Utility.*;
@@ -202,5 +205,8 @@ public class ReLogoLink<T> extends BaseLink<T>	{
 	}
 
 
+<<<<<<< HEAD
 >>>>>>> 99219f44f5e73a27846c7b7362c14fb058ae7528
+=======
+>>>>>>> 5fab1f628519b11a740691e76504a814c7cd4803
 }
